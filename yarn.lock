@@ -236,16 +236,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron@npm:^5.0.7":
-  version: 5.0.7
-  resolution: "electron@npm:5.0.7"
+"electron@npm:^5.0.13":
+  version: 5.0.13
+  resolution: "electron@npm:5.0.13"
   dependencies:
     "@types/node": ^10.12.18
     electron-download: ^4.1.0
     extract-zip: ^1.0.3
   bin:
     electron: cli.js
-  checksum: 5b5247d34a65efc851f4ba3adbc48f837cb201b1eb0b597146cb6c4348d5cdbac4f7f72d047232c277206985e1a40d3c6163a9ed7f8f9373fcb467f72c6163c2
+  checksum: 6769534cb01a6e4f04127f3fa1ddf2f5799e73e10a70df53a51d83e4b8d34164a8d7bcca97b49ce1fdca2ed0b5cd5517fddec08f2de1cd19dd7e2147cf436873
   languageName: node
   linkType: hard
 
@@ -447,7 +447,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "initial@workspace:."
   dependencies:
-    electron: ^5.0.7
+    electron: ^5.0.13
     react: ^16.8.6
     react-dom: ^16.8.6
   languageName: unknown
@@ -1044,7 +1044,7 @@ __metadata:
 
 "resolve@patch:resolve@^1.10.0#~builtin<compat/resolve>":
   version: 1.11.1
-  resolution: "resolve@patch:resolve@npm%3A1.11.1#~builtin<compat/resolve>::version=1.11.1&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.11.1#~builtin<compat/resolve>::version=1.11.1&hash=07638b"
   dependencies:
     path-parse: ^1.0.6
   checksum: fc3e272f1b1016888441d4d78591f7cfa7eed88a24e3d1fa52299e91135c37fd455232c394972b8e1fcc1b8433b62db943d1a7cc4f18a7a0593eb15f99668777
